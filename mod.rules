@@ -1,0 +1,7 @@
+Name ="Translate Rus Mods"
+ID = translate.rus.mods
+Version = ALPHA v0.0.1a
+CompatibleGameVersions = ["0.20.1"]
+ModifiesMultiplayer = true
+Author = "GemMasterXtreme"
+Description = "ENG - This mod adds translation for other mods/n RUS - Этот мод добавляет перевод для других модов"

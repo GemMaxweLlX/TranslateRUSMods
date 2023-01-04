@@ -1,0 +1,103 @@
+Parts
+{
+// АВТ-мод
+HeavyArmor = "Тяжелая броня"
+HeavyArmorIcon = "Т. Броня"
+HeavyArmorDesc = "Значительно более тяжелый вариант брони. Чрезвычайно трудно разрушить."
+
+HeavyArmor2x1 = "Тяжелая броня 2x1"
+HeavyArmor2x1Icon = "Т. Броня 2x1"
+HeavyArmor2x1Desc = &HeavyArmorDesc
+
+HeavyArmorWedge = "Тяжелая броня (клин)"
+HeavyArmorWedgeIcon = "Т. Броня (клин)"
+HeavyArmorWedgeDesc = &HeavyArmorDesc
+
+HeavyArmor1x2Wedge = "Тяжелая броня (наклон)"
+HeavyArmor1x2WedgeIcon = "Т. Броня (наклон)"
+HeavyArmor1x2WedgeDesc = &HeavyArmorDesc
+
+HeavyArmor1x3Wedge = "Тяжелая броня 1x3 (клин)"
+HeavyArmor1x3WedgeIcon = "Т. Броня 1x3"
+HeavyArmor1x3WedgeDesc = &HeavyArmorDesc
+
+LightArmor = "Легкая броня"
+LightArmorIcon = "Л. Броня"
+LightArmorDesc = "Примерно в два раза менее прочная по сравнению со стандартной броней. Не очень эффективная, но довольно легкая."
+
+LightArmor2x1 = "Легкая броня 2x1"
+LightArmor2x1Icon = "Л. Броня 2x1"
+LightArmor2x1Desc = &LightArmorDesc
+
+LightArmorWedge = "Легкая броня (клин)"
+LightArmorWedgeIcon = "Л. Броня (клин)"
+LightArmorWedgeDesc = &LightArmorDesc
+
+LightArmor1x2Wedge = "Легкая броня (наклон)"
+LightArmor1x2WedgeIcon = "Л. Броня (наклон)"
+LightArmor1x2WedgeDesc = &LightArmorDesc
+
+LightArmor1x3Wedge = "Легкая броня 1x3 (наклон)"
+LightArmor1x3WedgeIcon = "Л. Броня 1x3 (наклон)"
+LightArmor1x3WedgeDesc = &LightArmorDesc
+
+RenforcedCorridor = "Усиленный коридор"
+RenforcedCorridorIcon = "Усил. коридор"
+RenforcedCorridorDesc = "Боевой, устойчивый и дорогой. Креативная инженерия позволяет экипажу двигаться по этим путям немного быстрее."
+
+MediumPlasmaThruster = "Средний плазменный двигатель"
+MediumPlasmaThrusterIcon = "М. Плазменный двигатель"
+MediumPlasmaThrusterDesc = "Давая значительно большую тягу, чем "базовые" двигатели, технология плазменного ускорения требует больше энергии для использования. Гибкая, отзывчивая и продвинутая."
+
+LargePlasmaThruster = "Большой плазменный двигатель"
+LargePlasmaThrusterIcon = "Л. Плазменный двигатель"
+LargePlasmaThrusterDesc = &MediumPlasmaThrusterDesc
+
+HugePlasmaThruster = "Огромный плазменный двигатель"
+HugePlasmaThrusterIcon = "Плазменный двигатель ХЛ"
+HugePlasmaThrusterDesc = &MediumPlasmaThrusterDesc
+
+SmallBubbleShield = "Маленький пузырьковый щит"
+SmallBubbleShieldIcon = "Щит-пузырь С"
+SmallBubbleShieldDesc = "Энергетический щит, создающий вокруг себя сферический пузырь. Довольно сложный в изготовлении, этот щит дорог и потребляет мало энергии."
+
+TriSteelArmor = "Три-стальная броня"
+TriSteelArmorIcon = "Три-стальная броня"
+TriSteelArmorDesc = "По сравнению с тяжелой броней, броня из трех сталей удваивает сопротивление ЭМИ и взрывному урону. Ее очень сложно разрушить, а построить дорого."
+
+TriSteelArmor2x1 = "Три-Сталь Броня 2x1"
+TriSteelArmor2x1Icon = "Т.Сталь Броня 2x1"
+TriSteelArmor2x1Desc = &TriSteelArmorDesc
+
+TriSteelArmorWedge = "Тристальная броня (клин)"
+TriSteelArmorWedgeIcon = "Броня из Т.стали (клин)"
+TriSteelArmorWedgeDesc = &TriSteelArmorDesc
+
+TriSteelArmor1x2Wedge = "Три-Сталь Броня 1x2 (клин)"
+TriSteelArmor1x2WedgeIcon = "Т.Сталь Броня 1x2"
+TriSteelArmor1x2WedgeDesc = &TriSteelArmorDesc
+
+TriSteel1x3Wedge = "Три-Сталь Броня 1x3 (клин)"
+TriSteel1x3WedgeIcon = "Т.Сталь Броня 1x3"
+TriSteel1x3WedgeDesc = &TriSteelArmorDesc
+
+
+SmallAutoCanon = "Маленькая автопушка"
+SmallAutoCanonIcon = "М. Автопушка"
+SmallAutoCanonDesc = "Неточная, но очень скорострельная баллистическая турель. Лучше всего использовать в ближнем бою."
+
+}
+StatCategories
+{
+// АВТ-мод
+RapidCanonSmallShot = "Маленький калибр"
+}
+EditorGroups
+{
+// AWT mod
+AWT_Armor = Броня БОТ
+
+AWT_Weapons = Оружие БОТ
+
+AWT_Flight = Полет БОТ
+}
